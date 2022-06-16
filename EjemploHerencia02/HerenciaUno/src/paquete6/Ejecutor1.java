@@ -29,6 +29,8 @@ public class Ejecutor1 {
                 apellido, identificacion, edad);
         
         estDistancia2.calcularMatriculaDistancia();
+        estDistancia2.establecerCostoAsignatura(100);
+        estDistancia2.establecerNumeroAsginaturas(4);
         
         System.out.printf("%s\n", estDistancia2);
     }

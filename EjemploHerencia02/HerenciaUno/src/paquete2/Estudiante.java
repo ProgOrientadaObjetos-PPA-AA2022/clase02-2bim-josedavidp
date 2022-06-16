@@ -66,7 +66,7 @@ public class Estudiante {
         return edadEstudiante;
     }
     
-    @Override
+    /*@Override
     public String toString(){
         String cadena = String.format("Nombre: %s\n"
                 + "Apellido: %s\n"
@@ -78,7 +78,7 @@ public class Estudiante {
                 edadEstudiante);
         
         return cadena;
-    }
+    }*/
     
 
 }
