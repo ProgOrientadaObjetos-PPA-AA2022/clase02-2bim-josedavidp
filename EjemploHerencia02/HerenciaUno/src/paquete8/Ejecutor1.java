@@ -22,5 +22,6 @@ public class Ejecutor1 {
         estDistancia.calcularMatriculaDistancia();
         
         System.out.println(estDistancia);
+        System.out.println("-------------------------------------");
     }
 }
